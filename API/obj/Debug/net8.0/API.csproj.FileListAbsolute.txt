@@ -132,3 +132,7 @@ C:\Users\Gitgit\Documents\Udemy\Reactivities\API\bin\Debug\net8.0\tr\Microsoft.C
 C:\Users\Gitgit\Documents\Udemy\Reactivities\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Gitgit\Documents\Udemy\Reactivities\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Gitgit\Documents\Udemy\Reactivities\api\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\Gitgit\Documents\Udemy\Reactivities\api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Gitgit\Documents\Udemy\Reactivities\api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Gitgit\Documents\Udemy\Reactivities\api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Gitgit\Documents\Udemy\Reactivities\api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
