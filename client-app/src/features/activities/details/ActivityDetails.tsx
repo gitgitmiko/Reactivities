@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Button, Card, CardContent, CardDescription, CardHeader, CardMeta, Image } from 'semantic-ui-react';
 import { Activity } from '../../../app/models/activity';
 
