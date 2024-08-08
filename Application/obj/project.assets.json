@@ -1420,19 +1420,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gitgit\\.nuget\\packages\\": {}
+    "C:\\Users\\Gitgitmiko\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Gitgitmiko\\Documents\\Reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\Gitgit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Application\\obj\\",
+      "projectPath": "C:\\Users\\Gitgitmiko\\Documents\\Reactivities\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\Gitgitmiko\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gitgitmiko\\Documents\\Reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gitgit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Gitgitmiko\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1444,11 +1444,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\Gitgitmiko\\Documents\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Gitgitmiko\\Documents\\Reactivities\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Persistence\\Persistence.csproj"
+            "C:\\Users\\Gitgitmiko\\Documents\\Reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\Gitgitmiko\\Documents\\Reactivities\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -1493,7 +1493,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
