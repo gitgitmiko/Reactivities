@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mlstwmqs/TY=",
+  "dgSpecHash": "Oui2ZAEqXAk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gitgitmiko\\Documents\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Gitgitmiko\\Documents\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gitgitmiko\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Gitgitmiko\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
