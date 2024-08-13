@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gitgitmiko\\Documents\\Reactivities\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gitgitmiko\\Documents\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gitgitmiko\\Documents\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Gitgitmiko\\Documents\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Gitgitmiko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gitgitmiko\\Documents\\Reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Gitgit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gitgitmiko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Gitgit\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
