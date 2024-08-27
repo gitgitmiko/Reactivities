@@ -52,7 +52,6 @@ export default observer(function ActivityForm(){
         else{
             updateActivity(activity).then(()=> navigate(`/activities/${activity.id}`))
         }
-        activity.id ? updateActivity(activity) : createActivity(activity);
     }
 
     if (loadingInitial) return <LoadingComponent content='Loading activity...' />

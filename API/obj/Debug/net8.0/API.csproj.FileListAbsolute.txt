@@ -556,3 +556,17 @@ C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\api\obj
 C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\api\obj\Debug\net8.0\API.pdb
 C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\api\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\api\obj\Debug\net8.0\ref\API.dll
+C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sigit.jatmiko.ICONPLN\Documents\Udemy\Reactivities\Reactivities\api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
