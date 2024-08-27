@@ -1207,11 +1207,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Gitgit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gitgit\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1226,8 +1226,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }
@@ -1268,7 +1268,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

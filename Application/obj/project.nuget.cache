@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZPnacCvEkh0=",
+  "dgSpecHash": "skbOoHtKzPM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gitgit\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Gitgit\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

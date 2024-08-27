@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\api\\API.csproj": {}
+    "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\api\\API.csproj": {
+    "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\api\\API.csproj",
+        "projectPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Gitgit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\api\\obj\\",
+        "outputPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gitgit\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Application\\Application.csproj"
+              "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -77,18 +77,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Application\\Application.csproj": {
+    "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Gitgit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Application\\obj\\",
+        "outputPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gitgit\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -103,11 +103,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj"
+              "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -160,18 +160,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Gitgit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gitgit\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -218,18 +218,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Gitgit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gitgit\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -244,8 +244,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Gitgit\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\sigit.jatmiko.ICONPLN\\Documents\\Udemy\\Reactivities\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -286,7 +286,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
